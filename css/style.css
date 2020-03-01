@@ -54,6 +54,7 @@ h2 {
 .press img {
   box-sizing: border-box;
   border-width: 6px;
+  margin: auto;
 }
 
 .press img:hover {
